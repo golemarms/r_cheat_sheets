@@ -2,4 +2,4 @@
 asdfsadf
 
 ### cheat_sheets
-[Base R](base-r.pdf])
+[Base R](base-r.pdf)
